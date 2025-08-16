@@ -1,10 +1,11 @@
 # 👋 Welcome to Kosha Nirman
 
-We are building innovative software solutions with a focus on reliability, performance, and design.  
+We are building innovative software solutions with a focus on reliability, performance, and design.
 
-🌱 **What we do:**  
+🌱 **What we do:**
+
 - Build products that empower developers and businesses.
-- Open source contributions and developer-first tools.  
+- Open source contributions and developer-first tools.
 - Research, experiment, and share knowledge.
 
 This repository contains organization-wide defaults and configuration for **Kosha Nirman**.
