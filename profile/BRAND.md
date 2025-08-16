@@ -13,9 +13,16 @@ Our colors are inspired by **nature, growth, and craft** – blending earthy gre
 |--------------|---------|---------|
 | Forest Green | #13341E | ![#13341E](https://placehold.co/20x20/13341E/13341E.png) |
 | Leaf Green | #4E7145 | ![#4E7145](https://placehold.co/20x20/4E7145/4E7145.png) |
+| Lemon Chiffon | #F6E7A0 | ![#F6E7A0](https://placehold.co/20x20/F6E7A0/F6E7A0.png) |
 | Amber Glow | #EB9C35 | ![#EB9C35](https://placehold.co/20x20/EB9C35/EB9C35.png) |
-| Terracotta | #C4501B | ![#C4501B](https://placehold.co/20x20/C4501B/C4501B.png) |
-| Deep Clay| #8A2B13 | ![#8A2B13](https://placehold.co/20x20/8A2B13/8A2B13.png) |
+| Pale Chestnut | #DDAEAC | ![#DDAEAC](https://placehold.co/20x20/DDAEAC/DDAEAC.png) |
+| True Red | #A61B1B | ![#A61B1B](https://placehold.co/20x20/A61B1B/A61B1B.png) |
+| Blue Sky | #A3C1DA | ![#A3C1DA](https://placehold.co/20x20/A3C1DA/A3C1DA.png) |
+| Galaxy Blue | #1E3A5F | ![#1E3A5F](https://placehold.co/20x20/1E3A5F/1E3A5F.png) |
+| Pink Lavender | #D6A2C1 | ![#D6A2C1](https://placehold.co/20x20/D6A2C1/D6A2C1.png) |
+| Russian Violet | #5B3F8D | ![#5B3F8D](https://placehold.co/20x20/5B3F8D/5B3F8D.png) |
+| Soft White | #F5F5F5 | ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png) |
+| Charcoal | #1C1C1C | ![#1C1C1C](https://placehold.co/20x20/1C1C1C/1C1C1C.png) |
 
 ---
 
