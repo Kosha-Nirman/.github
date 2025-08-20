@@ -44,7 +44,7 @@ We’re just getting started! If you’d like to collaborate or explore ideas wi
 
 ## 📬 Contact
 
-- **Website**: [Coming soon](#)
+- **Website**: [kosha-nirman.github.io](https://kosha-nirman.github.io)
 - **Email**: [Coming soon](#)
 - **GitHub**: [github.com/Kosha-Nirman](https://github.com/Kosha-Nirman)
 
